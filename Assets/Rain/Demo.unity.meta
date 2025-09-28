@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac8d5b1aaebadbc42878b46636081f16
+timeCreated: 1540609611
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131806
+  packageName: RainEffect
+  packageVersion: 1.0
+  assetPath: Assets/Rain/Demo.unity
+  uploadId: 276001

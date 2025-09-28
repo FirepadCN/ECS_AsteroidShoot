@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: meno
+  m_Shader: {fileID: 4800000, guid: 0d0474a476e518343b6cfde970c5bb33, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PlaneTex:
+        m_Texture: {fileID: 2800000, guid: fa56783735b310a429024c7d1d887b82, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _CircleEdge: 0.05
+    - _CircleRad: 0.415
+    - _Edge: 0.13
+    - _PlaneDist: -0.09
+    m_Colors:
+    - _CircleCol: {r: 0.58431375, g: 0.7019608, b: 0.52156866, a: 1}
+    - _MainColor: {r: 0.5722065, g: 0.7264151, b: 0.35978106, a: 1}
+    - _PlaneCol: {r: 1, g: 1, b: 1, a: 1}
+    - _PlaneNormal: {r: -1.85, g: 0.832876, b: 0.41, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

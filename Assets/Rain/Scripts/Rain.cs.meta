@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: eebbf46cf88aebc4fa38fa72063ff877
+timeCreated: 1540609903
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131806
+  packageName: RainEffect
+  packageVersion: 1.0
+  assetPath: Assets/Rain/Scripts/Rain.cs
+  uploadId: 276001

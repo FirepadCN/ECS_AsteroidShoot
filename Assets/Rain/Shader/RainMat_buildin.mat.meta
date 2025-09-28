@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8665725f80fe265409f6f58695e3f009
+timeCreated: 1540609588
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131806
+  packageName: RainEffect
+  packageVersion: 1.0
+  assetPath: Assets/Rain/Shader/RainMat.mat
+  uploadId: 276001

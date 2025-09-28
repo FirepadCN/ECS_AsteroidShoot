@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ad5bb60e9d20bc4469d61b3d5126c99a
+timeCreated: 1540609581
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131806
+  packageName: RainEffect
+  packageVersion: 1.0
+  assetPath: Assets/Rain/Shader/RainScreen.shader
+  uploadId: 276001
